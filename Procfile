@@ -1,1 +1,1 @@
-worker:paython audio.py
+worker: paython audio.py
