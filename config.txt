@@ -1,6 +1,6 @@
 token=process.env.token
 owner=332438141845635072
-prefix==$
-game=Humans Bots!
+prefix==
+game=Alpha Bots!
 stayinchannel=true
 songinstatus=true
